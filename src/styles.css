@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  text-align: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  border: 15px lightblue solid;
+  background-color: lightseagreen;
+  }
+
+.input {
+  background-color: lightseagreen;
+  border-radius: 20%;
+  }
+
+.bttn{
+  background-color: lightblue;
+  border-radius: 50%;
+}
+
+  body {
+    background-color: lightcoral;
+  }
